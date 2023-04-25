@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    font-size: 30px;
+    padding-top: 40px;
+    font-family:monospace;
+    font-weight:700;
+}
+
+.desc{
+    padding-top: 20px;
+    
+    font-family:sans-serif
+}
